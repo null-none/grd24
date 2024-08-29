@@ -1,5 +1,5 @@
 # grd24
-A CSS grid framework using Flexbox.
+A CSS grid (responosive) framework using Flexbox.
 
 
 ### Install
