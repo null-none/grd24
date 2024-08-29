@@ -19,6 +19,7 @@ npm install grd24
 
 ### grid options
 
+| size| value |
 |---|---|
 | `$sm` | 576px |
 | `$md` | 768px |
